@@ -10,7 +10,7 @@ The analysis covers **City-wise breakdown**, **MTD (Month-To-Date)**, **QTD (Qua
 ---
 
 ## 📂 Dataset Details
-- **Source:** [Add source or say "Self-created Excel file"]
+- **Source:** [(https://github.com/EngrNoman/Mobile_Sales_Dashbord/blob/main/Mobile%20Sales%20Data.xlsx)"]
 - **File Type:** Excel / CSV
 - **Columns Example:**
   - `Order Date`
@@ -36,17 +36,20 @@ The analysis covers **City-wise breakdown**, **MTD (Month-To-Date)**, **QTD (Qua
    - Total Revenue by City
    - Top 5 Performing Cities
    - City Filter/Slicer
+**Source:** [(https://github.com/EngrNoman/Mobile_Sales_Dashbord/blob/main/Dashboard_Main.jpg)]
+
 
 2. **⏱️ Time-Based Performance**
    - MTD / QTD / YTD Sales KPIs
    - Sales Growth vs Last Year
    - Monthly & Quarterly Trends
+**Source:** [(https://github.com/EngrNoman/Mobile_Sales_Dashbord/blob/main/mtd_dashboard.jpg)]
 
 3. **📈 Comparative Analysis**
    - Same Period Last Year (SPLY) vs Current
    - Year-over-Year (YoY) growth
    - Product Category Sales Trends
-
+**Source:** [(https://github.com/EngrNoman/Mobile_Sales_Dashbord/blob/main/SameLastYear.jpg)]
 ---
 
 ## 🧮 DAX Measures Used
